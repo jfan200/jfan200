@@ -1,3 +1,5 @@
+![snake animation](https://github.com/jfan200/jfan200/output/snake.svg)
+
 <h1 align="center">Hi 👋, I'm Jinhua</h1>
 <h3 align="center">A Master's degree student from the University of Melbourne</h3>
 
