@@ -1,4 +1,4 @@
-![snake animation](https://github.com/jfan200/jfan200/blob/output/snake.svg%20dist/snake-dark.svg)
+![snake animation](https://github.com/jfan200/jfan200/blob/output/snake.svg)
 
 <h1 align="center">Hi 👋, I'm Jinhua</h1>
 <h3 align="center">A Master's degree student from the University of Melbourne</h3>
@@ -94,8 +94,4 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jfan200&show_icons=true&locale=en&layout=compact" alt="jfan200" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfan200&" alt="jfan200" />
 </div>
